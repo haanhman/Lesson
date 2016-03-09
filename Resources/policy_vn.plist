@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>list_data</key>
+	<array>
+		<dict>
+			<key>q</key>
+			<string>Chi tiết cụ thể như thế nào?</string>
+			<key>a</key>
+			<string>- Bạn sẽ được cung cấp một mã giảm giá 40% sau khi bạn bấm vào nút dưới đây.[/n]- Bạn sẽ được thông báo mỗi khi có người dùng mã giảm giá của bạn</string>
+		</dict>
+		<dict>
+			<key>q</key>
+			<string>Làm sao để chia sẻ mã giảm giá?</string>
+			<key>a</key>
+			<string>Bạn sẽ được cung cấp một đường dẫn của riêng bạn, trên đấy có tên của bạn, mã giảm giá của bạn và hướng dẫn cách cài đặt chương trình và cách thức áp dụng mã giảm giá. Bạn có thể gửi đường dẫn đấy cho bạn bè và người thân.</string>
+		</dict>
+		<dict>
+			<key>q</key>
+			<string>Lúc tôi đạt được chỉ tiêu thì sao?</string>
+			<key>a</key>
+			<string>- Bạn sẽ nhận một mã kích hoạt qua email và bạn có thể dùng mã kích hoạt này để sử dụng gói nội dung của ngôn ngữ mà bạn chọn trên hai thiết bị.</string>
+		</dict>
+		<dict>
+			<key>q</key>
+			<string>Tôi có thể sử dụng mã giảm giá 40% này để mua chương trình được không?</string>
+			<key>a</key>
+			<string>Được.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
